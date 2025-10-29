@@ -79,16 +79,6 @@ The model is trained on a labeled dataset (like MNIST) and can classify images (
 
 ---
 
-## 📊 Example Output
-
-```
-Iteration: 100  Accuracy: 85.6%
-Iteration: 200  Accuracy: 89.3%
-Iteration: 500  Accuracy: 92.1%
-```
-
----
-
 ## 🧪 How to Run
 
 1. Clone this repository:
