@@ -138,8 +138,3 @@ By going through this notebook, you’ll:
 🎓 Department of Artificial Intelligence and Data Science  
 Sri Sairam Engineering College  
 💡 Passionate about AI, ML, and deep learning  
-
----
-
-## 🪪 License
-This project is licensed under the **MIT License** — feel free to use and modify for educational purposes.
